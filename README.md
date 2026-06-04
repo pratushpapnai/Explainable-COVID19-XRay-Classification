@@ -136,16 +136,6 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) highlights the image regio
 
 ---
 
-### 2. Integrated Gradients
-
-Integrated Gradients provides pixel-level feature attribution by integrating gradients along a path from a baseline image to the input image.
-
-<p align="center">
-  <img src="results/Integrated_Gradients.png" width=300px,height=300px>
-</p>
-
----
-
 ## Quantitative Evaluation of Explanations
 
 ### Entropy Analysis
